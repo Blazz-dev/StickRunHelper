@@ -1,0 +1,14 @@
+# Environment
+.env
+node_modules/
+
+# Database
+data/market.db
+
+# Logs & Temp files
+*.log
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db

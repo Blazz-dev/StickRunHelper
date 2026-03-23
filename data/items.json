@@ -1,0 +1,578 @@
+[
+  {
+    "name": "-",
+    "aliases": [
+      "-"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "-"
+  },
+  {
+    "name": "-",
+    "aliases": [
+      "-"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "-"
+  },
+  {
+    "name": "Super Magic Tikki Hat",
+    "aliases": [
+      "Tikki"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "-"
+  },
+  {
+    "name": "-",
+    "aliases": [
+      "-"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "-"
+  },
+  {
+    "name": "Feather Bow",
+    "aliases": [
+      "FBow"
+    ],
+    "worth": 3,
+    "category": "Other",
+    "tier": "High Rare"
+  },
+  {
+    "name": "Feather Shoes",
+    "aliases": [
+      "FShoes"
+    ],
+    "worth": 3,
+    "category": "Other",
+    "tier": "High Rare"
+  },
+  {
+    "name": "Feather Hat",
+    "aliases": [
+      "FHat"
+    ],
+    "worth": 3,
+    "category": "Other",
+    "tier": "High Rare"
+  },
+  {
+    "name": "Rainbow Skin",
+    "aliases": [
+      "RSkin"
+    ],
+    "worth": 2.5,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "Red Eyes",
+    "aliases": [
+      "Redeyes"
+    ],
+    "worth": 2,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "Blue Bandana",
+    "aliases": [
+      "BB"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "Fireman Hat",
+    "aliases": [
+      "Firehat"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "Baseball Bat",
+    "aliases": [
+      "BBat"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "Wizzard Hat",
+    "aliases": [
+      "Wizzy"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "Police Hat",
+    "aliases": [
+      "Police"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "China Hat",
+    "aliases": [
+      "China"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "Anonymous Mask",
+    "aliases": [
+      "Anon"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "Pirate Hat",
+    "aliases": [
+      "Pirate"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "Darth Vader",
+    "aliases": [
+      "Vader"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Med Rare"
+  },
+  {
+    "name": "Money Cap",
+    "aliases": [
+      "MCap"
+    ],
+    "worth": 1,
+    "category": "Other",
+    "tier": "Low Rare"
+  },
+  {
+    "name": "Baseball Cap",
+    "aliases": [
+      "BCap"
+    ],
+    "worth": 1,
+    "category": "Other",
+    "tier": "Low Rare"
+  },
+  {
+    "name": "Army Hat",
+    "aliases": [
+      "Army"
+    ],
+    "worth": 1,
+    "category": "Other",
+    "tier": "Low Rare"
+  },
+  {
+    "name": "Viking Hat",
+    "aliases": [
+      "Viking"
+    ],
+    "worth": 1,
+    "category": "Other",
+    "tier": "Low Rare"
+  },
+  {
+    "name": "Ghost Cap",
+    "aliases": [
+      "GCap"
+    ],
+    "worth": 1,
+    "category": "Other",
+    "tier": "Low Rare"
+  },
+  {
+    "name": "Gas Mask",
+    "aliases": [
+      "Gas"
+    ],
+    "worth": 1,
+    "category": "Other",
+    "tier": "Low Rare"
+  },
+  {
+    "name": "Afro Hair",
+    "aliases": [
+      "Afro"
+    ],
+    "worth": 1,
+    "category": "Other",
+    "tier": "Low Rare"
+  },
+  {
+    "name": "Sunkey Eyes",
+    "aliases": [
+      "Sunkey"
+    ],
+    "worth": 1,
+    "category": "Other",
+    "tier": "Low Rare"
+  },
+  {
+    "name": "Golden Bro Cap",
+    "aliases": [
+      "Gbrocap"
+    ],
+    "worth": 1,
+    "category": "Other",
+    "tier": "Low Rare"
+  },
+  {
+    "name": "Bro Cap",
+    "aliases": [
+      "Brocap"
+    ],
+    "worth": 0.15,
+    "category": "Other",
+    "tier": "-"
+  },
+  {
+    "name": "Golden Shoes",
+    "aliases": [
+      "GShoes"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "Unique Rare"
+  },
+  {
+    "name": "Blue City Background",
+    "aliases": [
+      "BBG"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "Unique Rare"
+  },
+  {
+    "name": "Googles",
+    "aliases": [
+      "-"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "Unique Rare"
+  },
+  {
+    "name": "Pilgrim Hat",
+    "aliases": [
+      "Pilgrim"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "Unique Rare"
+  },
+  {
+    "name": "Zombie Shades",
+    "aliases": [
+      "ZShades"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "Unique Rare"
+  },
+  {
+    "name": "Zombie Claws",
+    "aliases": [
+      "ZClaws"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "-"
+  },
+  {
+    "name": "Zombie Teeth",
+    "aliases": [
+      "ZTeeth"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "-"
+  },
+  {
+    "name": "Millionaire Pack",
+    "aliases": [
+      "MPack"
+    ],
+    "worth": 10,
+    "category": "Other",
+    "tier": "High Prem"
+  },
+  {
+    "name": "Diamond Shoes",
+    "aliases": [
+      "DShoes"
+    ],
+    "worth": 3.5,
+    "category": "Other",
+    "tier": "High Prem"
+  },
+  {
+    "name": "Builder Pack",
+    "aliases": [
+      "BPack"
+    ],
+    "worth": 3.5,
+    "category": "Other",
+    "tier": "High Prem"
+  },
+  {
+    "name": "Diamond Skin",
+    "aliases": [
+      "DSkin"
+    ],
+    "worth": 3.5,
+    "category": "Other",
+    "tier": "High Prem"
+  },
+  {
+    "name": "Ninja Kick",
+    "aliases": [
+      "NKick"
+    ],
+    "worth": 3,
+    "category": "Other",
+    "tier": "Med Prem"
+  },
+  {
+    "name": "StickRun Skin",
+    "aliases": [
+      "SRSkin"
+    ],
+    "worth": 2.5,
+    "category": "Other",
+    "tier": "Med Prem"
+  },
+  {
+    "name": "Millionaire Hat",
+    "aliases": [
+      "MHat"
+    ],
+    "worth": 2.5,
+    "category": "Other",
+    "tier": "Med Prem"
+  },
+  {
+    "name": "Millionaire Glasses",
+    "aliases": [
+      "MGlasses"
+    ],
+    "worth": 2.5,
+    "category": "Other",
+    "tier": "Med Prem"
+  },
+  {
+    "name": "Millionaire Case",
+    "aliases": [
+      "MCase"
+    ],
+    "worth": 2.5,
+    "category": "Other",
+    "tier": "Med Prem"
+  },
+  {
+    "name": "Trading Pass",
+    "aliases": [
+      "TPass"
+    ],
+    "worth": 2,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Boxing Gloves",
+    "aliases": [
+      "BGloves"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Knife Runner",
+    "aliases": [
+      "Knives"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Gun Man",
+    "aliases": [
+      "Gunman"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Fancy Hat",
+    "aliases": [
+      "Fancy"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Roman Hat",
+    "aliases": [
+      "Roman"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "LOL Face",
+    "aliases": [
+      "Lolface"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "I'm the king!",
+    "aliases": [
+      "King"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Troll Face",
+    "aliases": [
+      "Trollface"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Beer Cap",
+    "aliases": [
+      "Beercap"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Joker Hat",
+    "aliases": [
+      "Joker"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Builder Shoes",
+    "aliases": [
+      "BShoes"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Builder Hammer",
+    "aliases": [
+      "BHammer"
+    ],
+    "worth": 1.5,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Builder Hat",
+    "aliases": [
+      "BHat"
+    ],
+    "worth": 1,
+    "category": "Other",
+    "tier": "Low Prem"
+  },
+  {
+    "name": "Fuuuu Meme",
+    "aliases": [
+      "Fuu"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "Unique Prem"
+  },
+  {
+    "name": "Cereal Guy",
+    "aliases": [
+      "Cereal"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "Unique Prem"
+  },
+  {
+    "name": "-",
+    "aliases": [
+      "-"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "-"
+  },
+  {
+    "name": "-",
+    "aliases": [
+      "-"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "-"
+  },
+  {
+    "name": "-",
+    "aliases": [
+      "-"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "-"
+  },
+  {
+    "name": "-",
+    "aliases": [
+      "-"
+    ],
+    "worth": "Unassigned",
+    "category": "Other",
+    "tier": "-"
+  }
+]
